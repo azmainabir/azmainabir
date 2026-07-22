@@ -55,7 +55,7 @@
      Send Azmain your photo and paste the generated ASCII art here.
 -->
 
-- 🔭 I build **end-to-end projects** — from raw data and ML models to fully deployed web apps.
+- 🔭 I build **end-to-end projects** — from raw data and ML models to fully deployed, production-ready web apps.
 - 🌱 Currently deep-diving into **AI engineering, machine learning, and cybersecurity**.
 - 🎯 Goal: become a well-rounded engineer across **Data Science, AI, Security, and Software Dev**.
 - 💬 Ask me about **Python, Streamlit, Next.js, Supabase, machine learning, or computer vision**.
