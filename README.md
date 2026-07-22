@@ -163,16 +163,16 @@
 <!-- ═══════════════════════════════════════════════════════════════
      CURRENT FOCUS
 ═══════════════════════════════════════════════════════════════ -->
-## 🎯 Current Focus
+## 🎯 Domain Expertise
 
 <div align="center">
 
-| Domain | What I'm Building |
+| Domain | What I've Shipped |
 |:-------|:------------------|
-| 🤖 **AI Engineering** | RAG systems, multi-agent workflows, LLM integration |
-| 📊 **Data Science** | ML pipelines, model explainability, forecasting |
-| 🔐 **Cybersecurity** | Threat detection, ML-based security tooling |
-| 💻 **Software Development** | Full-stack apps with real-time features |
+| 🤖 **AI Engineering** | RAG retrieval systems, multi-agent orchestration, computer vision pipelines |
+| 📊 **Data Science** | End-to-end ML pipelines, model explainability with SHAP, interactive analytics |
+| 🔐 **Cybersecurity** | Multi-class intrusion detection, phishing classification, breach checking |
+| 💻 **Software Development** | Real-time collaborative apps, full-stack platforms with auth and analytics |
 
 </div>
 
