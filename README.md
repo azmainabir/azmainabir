@@ -121,10 +121,10 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=azmainabir&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="stats" />
+<img height="165" src="https://github-readme-stats-ten-beige-70.vercel.app/api?username=azmainabir&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="stats" />
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=azmainabir&theme=tokyonight&hide_border=true" alt="streak" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azmainabir&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" />
+<img height="165" src="https://github-readme-stats-ten-beige-70.vercel.app/api/top-langs/?username=azmainabir&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" />
 
 </div>
 
