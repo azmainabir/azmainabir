@@ -35,7 +35,7 @@
   Role         :  CSE Student & Developer
   Education    :  Daffodil International University
   Focus        :  Data Science · AI · Cybersecurity · Software
-  Status       :  Building & shipping real-world projects
+  Status       :  10 projects built, deployed & documented
   Toolchain    :  Python · Next.js · Streamlit · Supabase
 
 > CORE.STACK
@@ -51,14 +51,10 @@
   GitHub       :  github.com/azmainabir
 ```
 
-<!-- ═══ ASCII FACE SLOT ═══
-     Send Azmain your photo and paste the generated ASCII art here.
--->
-
-- 🔭 I build **end-to-end projects** — from raw data and ML models to fully deployed, production-ready web apps.
-- 🌱 Currently deep-diving into **AI engineering, machine learning, and cybersecurity**.
-- 🎯 Goal: become a well-rounded engineer across **Data Science, AI, Security, and Software Dev**.
-- 💬 Ask me about **Python, Streamlit, Next.js, Supabase, machine learning, or computer vision**.
+- 🚀 **10 deployed projects** spanning Data Science, AI Engineering, Cybersecurity, and Software Development.
+- 🔭 I build **end to end** — from raw data and model training through to live, production-ready applications.
+- 🧠 Recent work: **multi-agent AI orchestration** and **multi-class network intrusion detection**.
+- 💬 Ask me about **Python, XGBoost, RAG systems, Streamlit, Next.js, or Supabase**.
 
 <br />
 
@@ -112,7 +108,6 @@
 | 🛡️ **Sentri** | Multi-class network intrusion detection system | XGBoost · Streamlit | [Demo](https://sentri.streamlit.app) |
 | 🧭 **Colloqi** | Multi-agent AI research system with custom orchestrator | Gemini · Streamlit | [Demo](https://colloqi.streamlit.app) |
 
-
 <br />
 
 <!-- ═══════════════════════════════════════════════════════════════
@@ -122,7 +117,7 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-ten-beige-70.vercel.app/api?username=azmainabir&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide_rank=true" alt="stats" />
+<img height="165" src="https://github-readme-stats-ten-beige-70.vercel.app/api?username=azmainabir&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="stats" />
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=azmainabir&theme=tokyonight&hide_border=true" alt="streak" />
 
 <img height="165" src="https://github-readme-stats-ten-beige-70.vercel.app/api/top-langs/?username=azmainabir&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" />
