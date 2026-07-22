@@ -160,13 +160,18 @@
 <br />
 
 <!-- ═══════════════════════════════════════════════════════════════
-     TROPHIES
+     CURRENT FOCUS
 ═══════════════════════════════════════════════════════════════ -->
-## 🏆 Trophies
+## 🎯 Current Focus
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=azmainabir&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="trophies" />
+| Domain | What I'm Building |
+|:-------|:------------------|
+| 🤖 **AI Engineering** | RAG systems, multi-agent workflows, LLM integration |
+| 📊 **Data Science** | ML pipelines, model explainability, forecasting |
+| 🔐 **Cybersecurity** | Threat detection, ML-based security tooling |
+| 💻 **Software Development** | Full-stack apps with real-time features |
 
 </div>
 
