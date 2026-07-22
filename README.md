@@ -109,6 +109,8 @@
 | 📋 **Momentum** | Real-time collaborative Kanban board | Next.js · Supabase Realtime | [Demo](https://momentum-delta-nine.vercel.app) |
 | 🧠 **Verqi** | RAG-based AI study assistant | Gemini · FAISS · Streamlit | [Demo](https://verqi-abir.streamlit.app) |
 | 👁️ **Presyn** | Computer-vision attendance system | OpenCV · ONNX · Supabase | [Demo](https://presyn.streamlit.app) |
+| 🛡️ **Sentri** | Multi-class network intrusion detection system | XGBoost · Streamlit | [Demo](https://sentri.streamlit.app) |
+| 🧭 **Colloqi** | Multi-agent AI research system with custom orchestrator | Gemini · Streamlit | [Demo](https://colloqi.streamlit.app) |
 
 
 <br />
