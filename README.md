@@ -105,7 +105,7 @@
 | 🔐 **Password Strength Analyzer** | Breach checker using the HaveIBeenPwned API | React · Vite | [Demo](https://password-strength-analyzer-iota.vercel.app) |
 | 📊 **Bangladesh Economic Dashboard** | Interactive economic data visualizations | Streamlit · Plotly | [Demo](https://bangladesh-dashboard.streamlit.app) |
 | 📉 **Customer Churn Prediction** | ML pipeline with SHAP explainability | XGBoost · Streamlit | [Demo](https://churn-predictor-abir.streamlit.app) |
-| 🎣 **Phishing URL Detector** | ML classifier detecting malicious links | XGBoost · Streamlit | [Demo](https://github.com/azmainabir) |
+| 🎣 **Phishing URL Detector** | ML classifier detecting malicious links | XGBoost · Streamlit | [Demo](https://phishing-url-detector-fexbfazp7dmbmhflpbyai2.streamlit.app) |
 | 📋 **Momentum** | Real-time collaborative Kanban board | Next.js · Supabase Realtime | [Demo](https://momentum-delta-nine.vercel.app) |
 | 🧠 **Verqi** | RAG-based AI study assistant | Gemini · FAISS · Streamlit | [Demo](https://verqi-abir.streamlit.app) |
 | 👁️ **Presyn** | Computer-vision attendance system | OpenCV · ONNX · Supabase | [Demo](https://presyn.streamlit.app) |
