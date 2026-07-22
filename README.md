@@ -110,7 +110,6 @@
 | 🧠 **Verqi** | RAG-based AI study assistant | Gemini · FAISS · Streamlit | [Demo](https://verqi-abir.streamlit.app) |
 | 👁️ **Presyn** | Computer-vision attendance system | OpenCV · ONNX · Supabase | [Demo](https://presyn.streamlit.app) |
 
-> 🔧 *Swap the Phishing URL Detector "Demo" link for its live Streamlit URL once you confirm it.*
 
 <br />
 
